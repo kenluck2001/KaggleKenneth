@@ -1,0 +1,7 @@
+input/
+models/
+output/
+*.log 
+*.pyc
+*.o
+*.class
